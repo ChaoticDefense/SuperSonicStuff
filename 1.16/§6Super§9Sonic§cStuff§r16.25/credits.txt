@@ -17,7 +17,7 @@ Textures:
 		custom GUIs for all containers, entities, and villagers
 		dark GUI for inventory and menu buttons
 	u/CraftBox (CraftBox Ores)
-		Overworld ores
+		overworld ores
 	CrustyMildew (GUI+)
 		nicer looking hearts and armor icons for the hotbar
 	MinecraftMinun
@@ -30,3 +30,5 @@ Textures:
 		better farmland and better crops (except grass)
 	DraminOver (Fully Colored Sheep)
 		fully colored sheep with OptiFine
+	Squid Eevee (Centered Ender Pearls Eyes)
+		centers ender pearls and eyes of ender in inventory and item frames
