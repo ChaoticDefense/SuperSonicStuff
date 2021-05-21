@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/lapis_ore/lapis_ore1", "weight": 3 },
+            { "model": "block/lapis_ore/lapis_ore2", "weight": 2 },
+            { "model": "block/lapis_ore/lapis_ore3", "weight": 3 },
+			{ "model": "block/lapis_ore/lapis_ore4", "weight": 5 }
+        ]
+    }
+}

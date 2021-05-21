@@ -1,0 +1,13 @@
+{
+  "textureSize": [64, 32],
+  "credit": "By DraminOver",
+  "models": 
+  [
+    {
+        "id": "sheepwoolface",
+		"part": "head",
+		"model": "sheep_woolface.jpm",
+		"attach": "true" 
+    }
+  ]
+}
