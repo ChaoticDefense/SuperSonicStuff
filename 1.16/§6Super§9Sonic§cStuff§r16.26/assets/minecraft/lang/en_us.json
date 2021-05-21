@@ -248,7 +248,7 @@
   "recipe.toast.description": "§fCheck your recipe book",
   "inventory.binSlot": "§cDestroy Item§r",
   "advancements.nether.brew_potion.description": "Literally take anything out of a Brewing Stand",
-   "tutorial.move.title": "§cMove with §c§lW§c, §c§lA§c, §c§lS§c, and §c§lD",
+  "tutorial.move.title": "§cMove with §c§lW§c, §c§lA§c, §c§lS§c, and §c§lD",
   "tutorial.move.description": "§fJump with §lSpace",
   "tutorial.look.title": "§cLook around",
   "tutorial.look.description": "§fUse your mouse to turn",
