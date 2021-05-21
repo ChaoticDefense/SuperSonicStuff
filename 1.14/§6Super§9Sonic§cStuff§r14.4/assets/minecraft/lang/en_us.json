@@ -199,5 +199,18 @@
   "subtitles.entity.skeleton_horse.swim": "Bony Horse swims",
   "recipe.toast.title": "§cNew Recipes Unlocked!",
   "recipe.toast.description": "§fCheck your recipe book",
-  "inventory.binSlot": "§cDestroy Item§r"
+  "inventory.binSlot": "§cDestroy Item§r",
+  "advancements.nether.brew_potion.description": "Literally take anything out of a Brewing Stand"
+  "tutorial.move.title": "§cMove with §c§lW§c, §c§lA§c, §c§lS§c, and §c§lD",
+  "tutorial.move.description": "§fJump with §lSpace",
+  "tutorial.look.title": "§cLook around",
+  "tutorial.look.description": "§fUse your mouse to turn",
+  "tutorial.find_tree.title": "§aFind a tree",
+  "tutorial.find_tree.description": "§fPunch it to collect wood",
+  "tutorial.punch_tree.title": "§aDestroy the tree",
+  "tutorial.punch_tree.description": "§fHold down §f§lLeft Click",
+  "tutorial.open_inventory.title": "§9Open your inventory",
+  "tutorial.open_inventory.description": "§fPress §f§lE",
+  "tutorial.craft_planks.title": "§9Craft wooden planks",
+  "tutorial.craft_planks.description": "§fThe recipe book can help"
 }
