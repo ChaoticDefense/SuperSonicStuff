@@ -13,6 +13,7 @@ Textures:
 		3D items for campfires and soul campfires
 		soul soil base for soul campfire
 		3D mushrooms and fungi
+		groovy levers
 	Blasjel (Advanced GUI Resource Pack)
 		custom GUIs for all containers, entities, and villagers
 		dark GUI for inventory and menu buttons
@@ -32,3 +33,5 @@ Textures:
 		fully colored sheep with OptiFine
 	Squid Eevee (Centered Ender Pearls Eyes)
 		centers ender pearls and eyes of ender in inventory and item frames
+	JonnyWood (VariedFireworks)
+		fireworks that match type and flight duration with OptiFine
