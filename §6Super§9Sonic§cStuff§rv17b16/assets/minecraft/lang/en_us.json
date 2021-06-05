@@ -302,4 +302,8 @@
   "tutorial.socialInteractions.description": "§fPress §f§lP to open",
   "tutorial.bundleInsert.title": "§9Use a Bundle",
   "tutorial.bundleInsert.description": "§fRight Click to add items"
+  "item.minecraft.tipped_arrow.effect.swiftness": "Arrow of Fast",
+  "item.minecraft.potion.effect.swiftness": "Potion of Fast",
+  "item.minecraft.splash_potion.effect.swiftness": "Splash Potion of Fast",
+  "item.minecraft.lingering_potion.effect.swiftness": "Lingering Potion of Fast"
 }
