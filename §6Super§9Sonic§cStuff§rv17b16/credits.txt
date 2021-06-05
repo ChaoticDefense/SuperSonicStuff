@@ -35,3 +35,4 @@ Textures:
 		fireworks that match type and flight duration with OptiFine
 	xalixilax (Enhanced Amethyst and Enhanced Dripstone)
 		3D amethyst buds and clusters
+		3D pointed dripstone
