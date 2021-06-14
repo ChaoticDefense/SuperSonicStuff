@@ -305,5 +305,10 @@
   "item.minecraft.tipped_arrow.effect.swiftness": "Arrow of Fast",
   "item.minecraft.potion.effect.swiftness": "Potion of Fast",
   "item.minecraft.splash_potion.effect.swiftness": "Splash Potion of Fast",
-  "item.minecraft.lingering_potion.effect.swiftness": "Lingering Potion of Fast"
+  "item.minecraft.lingering_potion.effect.swiftness": "Lingering Potion of Fast",
+  "advancements.husbandry.axolotl_in_a_bucket.description": "Catch an Attacc Lizard in a bucket",
+  "advancements.husbandry.kill_axolotl_target.description": "Team up with an Attacc Lizard and win a fight",
+  "advancements.adventure.spyglass_at_parrot.description": "Look at a parrot through a telescope",
+  "advancements.adventure.spyglass_at_ghast.description": "Look at a ghast through a telescope",
+  "advancements.adventure.spyglass_at_dragon.description": "Look at the Ender Dragon through a telescope"
 }
