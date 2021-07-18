@@ -36,3 +36,5 @@ Textures:
 	xalixilax (Enhanced Amethyst and Enhanced Dripstone)
 		3D amethyst buds and clusters
 		3D pointed dripstone
+	kekman (Upgraded Candles)
+		better models for all candles
