@@ -28,7 +28,7 @@ Textures:
 	SatanicAntichrist (Better Farmland and Better Crops)
 		better farmland and better crops (except grass)
 	DraminOver (Fully Colored Sheep)
-		fully colored sheep with OptiFine
+		fully colored sheep with OptiFine (not implemented at the moment)
 	Squid Eevee (Centered Ender Pearls Eyes)
 		centers ender pearls and eyes of ender in inventory and item frames
 	JonnyWood (VariedFireworks)
@@ -38,3 +38,6 @@ Textures:
 		3D pointed dripstone
 	kekman (Upgraded Candles)
 		better models for all candles
+	LarsMans (Better Heads Holding and Better Map Items)
+		better mob and player head holding models in first person
+		better map items
