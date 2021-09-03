@@ -1,7 +1,7 @@
 Textures:
 	Mickey Joe Alpha (u/MushirMickeyJoe) (Relatively Improved Default)
-		all tools
-		all swords 
+		all tools (except netherite)
+		all swords (except netherite)
 		all armor (except leather and netherite)
 	xisumavoid  and Vanilla Tweaks Team (Vanilla Tweaks Resource Pack)
 		cleaner ice textures
@@ -41,3 +41,8 @@ Textures:
 	LarsMans (Better Heads Holding and Better Map Items)
 		better mob and player head holding models in first person
 		better map items
+	L-White (Ancient and Decked: Gilded Netherite)
+		basis of netherite tools and armor edits
+		netherite ingot with gold accents
+	FmWild57 (Ancient and Decked : Gilded Netherite - Diamond Version)
+		modified version of L-White's version of Ancient and decked that gives netherite tools and armor diamond accents
