@@ -310,5 +310,6 @@
   "advancements.husbandry.kill_axolotl_target.description": "Team up with an Attacc Lizard and win a fight",
   "advancements.adventure.spyglass_at_parrot.description": "Look at a parrot through a telescope",
   "advancements.adventure.spyglass_at_ghast.description": "Look at a ghast through a telescope",
-  "advancements.adventure.spyglass_at_dragon.description": "Look at the Ender Dragon through a telescope"
+  "advancements.adventure.spyglass_at_dragon.description": "Look at the Ender Dragon through a telescope",
+  "item.minecraft.music_disc_otherside.desc": "Windmill Isle (Day)"
 }
