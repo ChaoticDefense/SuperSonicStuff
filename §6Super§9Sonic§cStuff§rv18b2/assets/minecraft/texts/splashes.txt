@@ -34,7 +34,7 @@ This is the §cM§bo§cnado's §rpower!
 §cM§bo§cnado §aPurge破!
 §cM§bo§cnado §6Armour鎧!
 §cM§bo§cnado §fCyclone轟!
-§cM§bo§cnado §8Eeater喰!
+§cM§bo§cnado §8Eater喰!
 Now it's Reyn Time!
 Man, what a buncha jokers!
 Not bad, not bad at all!
@@ -98,6 +98,7 @@ A §bGreat Poison §rburst forth into the land...
 May the §fLight of Aether §rshine upon you!
 Soon everything will be §9§kC§bco§b§kr§bru§b§kp§bted§9§kC§b!
 Any objections, Lady?
+The last metroid is in captivity... The galaxy is at peace...
 Flying Tigers!
 P-40 Warhawk!
 Honey, why is the baby on fire?
