@@ -51,7 +51,6 @@ Misty, do you want a Bone?
 YEAAAAAAAHHHHHH BOIIIIIIIIIII!
 Kersnackle!
 Hope you've got insurance!
-Fluffy Bunny Dango! They're a tasty treat!
 WHOAH!
 Fantastic! Thanks for asking!
 Go! Heatneedle!
@@ -71,6 +70,7 @@ Hey Siri, which iOS version?
 Nobody beats Kurt Wylde!
 A shortcut, cut short!
 Yeah! Shoot the curl!
+What happened? Did I win?
 §6Caves §5& §bCliffs §rPt. 2!
 Now with twice as much Java!
 Got it memorized?
@@ -93,6 +93,7 @@ I'LL STEAL IT! NO ONE WILL EVER KNOW!!
 THINK GAMERS!
 Not settin' up the chairs next time!
 You know what they say, all toasters toast toast!
+Fluffy Bunny Dango! They're a tasty treat!
 The stars at night, are big and bright!
 Deep in the Heart of Texas!
 A §bGreat Poison §rburst forth into the land...

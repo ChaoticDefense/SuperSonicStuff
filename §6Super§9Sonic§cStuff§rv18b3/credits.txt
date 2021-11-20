@@ -3,7 +3,7 @@ Textures:
 		all tools (except netherite)
 		all swords (except netherite)
 		all armor (except leather and netherite)
-	xisumavoid  and Vanilla Tweaks Team (Vanilla Tweaks Resource Pack)
+	xisumavoid and Vanilla Tweaks Team (Vanilla Tweaks Resource Pack)
 		cleaner ice textures
 		unobtrusive rain
 		colored ping indicators
@@ -14,6 +14,8 @@ Textures:
 		soul soil base for soul campfire
 		3D mushrooms and fungi
 		groovy levers
+		jappa toast icons
+		jappa recipe book
 	Blasjel (Advanced GUI Resource Pack)
 		custom GUIs for all containers, entities, and villagers
 		dark GUI for inventory and menu buttons

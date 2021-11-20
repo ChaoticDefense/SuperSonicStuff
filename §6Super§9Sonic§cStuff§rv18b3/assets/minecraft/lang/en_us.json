@@ -311,5 +311,6 @@
   "advancements.adventure.spyglass_at_parrot.description": "Look at a parrot through a telescope",
   "advancements.adventure.spyglass_at_ghast.description": "Look at a ghast through a telescope",
   "advancements.adventure.spyglass_at_dragon.description": "Look at the Ender Dragon through a telescope",
-  "item.minecraft.music_disc_otherside.desc": "Windmill Isle (Day)"
+  "item.minecraft.music_disc_otherside.desc": "Windmill Isle (Day)",
+  "advancements.adventure.walk_on_powder_snow_with_leather_boots.description": "Walk on snowier snow...without sinking in it"
 }
