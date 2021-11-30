@@ -48,3 +48,5 @@ Textures:
 		netherite ingot with gold accents
 	FmWild57 (Ancient and Decked : Gilded Netherite - Diamond Version)
 		modified version of L-White's version of Ancient and decked that gives netherite tools and armor diamond accents
+	DartCat25
+		transistioning panoramas
