@@ -37,7 +37,6 @@ Textures:
 		fireworks that match type and flight duration with OptiFine
 	xalixilax (Enhanced Amethyst and Enhanced Dripstone)
 		3D amethyst buds and clusters
-		3D pointed dripstone
 	kekman (Upgraded Candles)
 		better models for all candles
 	LarsMans (Better Heads Holding and Better Map Items)
@@ -50,3 +49,5 @@ Textures:
 		modified version of L-White's version of Ancient and decked that gives netherite tools and armor diamond accents
 	DartCat25
 		transistioning panoramas
+	MCjossic
+		3D pointed dripstone
