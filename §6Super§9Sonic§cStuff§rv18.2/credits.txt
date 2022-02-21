@@ -51,3 +51,5 @@ Textures:
 		transistioning panoramas
 	MCjossic
 		3D pointed dripstone
+	NyoPlus (NyoPlus Music Discs)
+		centered music discs
