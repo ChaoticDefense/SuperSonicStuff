@@ -1,0 +1,10 @@
+{
+	"credit": "SatanicAntichrist",
+	"parent": "block/farmland_template",
+	"textures": {
+		"side": "block/farmland_moist/farmland_moist_side",
+		"top": "block/farmland_moist/farmland_moist",
+		"bottom": "block/dirt",
+		"front": "block/farmland_moist/farmland_moist_front"
+	}
+}
