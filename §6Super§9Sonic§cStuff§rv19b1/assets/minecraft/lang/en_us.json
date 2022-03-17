@@ -279,6 +279,7 @@
   "block.minecraft.waxed_copper_block": "Waxed Copper Block",
   "block.minecraft.waxed_exposed_copper": "Waxed Exposed Copper Block",
   "block.minecraft.waxed_weathered_copper": "Waxed Weathered Copper Block",
+  "block.minecraft.waxed_oxidized_copper": "Waxed Oxidized Copper Block",
   "block.minecraft.waxed_cut_copper": "Waxed Cut Copper Block",
   "block.minecraft.waxed_exposed_cut_copper": "Waxed Exposed Cut Copper Block",
   "block.minecraft.waxed_weathered_cut_copper": "Waxed Weathered Cut Copper Block",
@@ -312,5 +313,14 @@
   "advancements.adventure.spyglass_at_ghast.description": "Look at a ghast through a telescope",
   "advancements.adventure.spyglass_at_dragon.description": "Look at the Ender Dragon through a telescope",
   "item.minecraft.music_disc_otherside.desc": "Windmill Isle (Day)",
-  "advancements.adventure.walk_on_powder_snow_with_leather_boots.description": "Walk on snowier snow...without sinking in it"
+  "advancements.adventure.walk_on_powder_snow_with_leather_boots.description": "Walk on snowier snow...without sinking in it",
+  "item.minecraft.tadpole_bucket": "Frog Fishy Bucket",
+  "item.minecraft.tadpole_spawn_egg": "Frog Fishy Spawn Egg",
+  "entity.minecraft.tadpole": "Frog Fishy",
+  "subtitles.entity.tadpole.death": "Frog Fishy dies",
+  "subtitles.entity.tadpole.flop": "Frog Fishy flops",
+  "subtitles.entity.tadpole.hurt": "Frog Fishy hurts",
+  "block.minecraft.frogspawn": "Frog Fishy Eggs",
+  "block.minecraft.mangrove_wood": "Mangrove Bark",
+  "block.minecraft.stripped_mangrove_wood": "Stripped Mangrove Bark"
 }
