@@ -321,6 +321,9 @@
   "subtitles.entity.tadpole.flop": "Frog Fishy flops",
   "subtitles.entity.tadpole.hurt": "Frog Fishy hurts",
   "block.minecraft.frogspawn": "Frog Fishy Eggs",
+  "subtitles.block.frogspawn.hatch": "Frog Fishy hatches",
+  "subtitles.item.bucket.fill_tadpole": "Frog Fishy captured",
+  "advancements.husbandry.tadpole_in_a_bucket.description": "Catch a Frog Fishy in a Bucket",
   "block.minecraft.mangrove_wood": "Mangrove Bark",
   "block.minecraft.stripped_mangrove_wood": "Stripped Mangrove Bark"
 }
