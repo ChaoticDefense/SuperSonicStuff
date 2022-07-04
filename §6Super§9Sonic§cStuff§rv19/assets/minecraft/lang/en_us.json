@@ -326,5 +326,6 @@
   "advancements.husbandry.tadpole_in_a_bucket.description": "Catch a Frog Fishy in a Bucket",
   "block.minecraft.mangrove_wood": "Mangrove Bark",
   "block.minecraft.stripped_mangrove_wood": "Stripped Mangrove Bark",
-   "item.minecraft.music_disc_5.desc": "Le Epic Song"
+  "item.minecraft.music_disc_5.desc": "Le Epic Song",
+  "item.minecraft.disc_fragment_5.desc": "Le Epic Song"
 }
