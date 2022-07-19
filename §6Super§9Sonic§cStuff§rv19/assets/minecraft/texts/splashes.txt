@@ -102,7 +102,7 @@ Nobody beats Kurt Wylde!
 A shortcut, cut short!
 Yeah! Shoot the curl!
 What happened? Did I win?
-§bThe §aWild §b Update!
+§bThe §aWild §bUpdate!
 17 Flavors of Java!
 Got it memorized?
 Who will I have ice cream with?
@@ -168,3 +168,4 @@ How many times do we have to teach you this lesson old man!?
 You can rest now COBRA...
 Computer Of Being Really Awesome!
 See!? I just kicked Stan!
+Technoblade never dies!
