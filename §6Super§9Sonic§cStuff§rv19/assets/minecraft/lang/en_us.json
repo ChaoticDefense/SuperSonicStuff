@@ -327,5 +327,6 @@
   "block.minecraft.mangrove_wood": "Mangrove Bark",
   "block.minecraft.stripped_mangrove_wood": "Stripped Mangrove Bark",
   "item.minecraft.music_disc_5.desc": "Le Epic Song",
-  "item.minecraft.disc_fragment_5.desc": "Le Epic Song"
+  "item.minecraft.disc_fragment_5.desc": "Le Epic Song",
+  "block.minecraft.crying_obsidian": "Obsadian"
 }
