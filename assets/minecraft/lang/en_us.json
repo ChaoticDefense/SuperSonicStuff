@@ -333,5 +333,7 @@
   "item.minecraft.disc_fragment_5.desc": "Le Epic Song",
   "block.minecraft.crying_obsidian": "Obsadian",
   "advancements.nether.obtain_crying_obsidian.description": "Obtain Obsadian",
-  "item.minecraft.enchanted_golden_apple": "Notch Apple"
+  "item.minecraft.enchanted_golden_apple": "Notch Apple",
+  "block.minecraft.bamboo_block": "Bamboo Block",
+  "block.minecraft.stripped_bamboo_block": "Stripped Bamboo Block"
 }
