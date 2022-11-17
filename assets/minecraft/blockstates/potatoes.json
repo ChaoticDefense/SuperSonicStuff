@@ -1,0 +1,29 @@
+{
+    "variants": {
+        "age=0": [{ "model": "block/potato/potatoes_stage0", "y": 0 }],
+        "age=1": [{ "model": "block/potato/potatoes_stage0", "y": 0 }],
+        "age=2": [{ "model": "block/potato/potatoes_stage1", "y": 0 }],
+        "age=3": [{ "model": "block/potato/potatoes_stage1", "y": 0 }],
+        "age=4": [{ "model": "block/potato/potatoes_stage2", "y": 0, "weight": 80},
+                  { "model": "block/potato/potatoes_stage2", "y": 90, "weight": 60 },
+                  { "model": "block/potato/potatoes_stage2_poisonous", "y": 0, "weight": 20 },
+                  { "model": "block/potato/potatoes_stage2_poisonous", "y": 90, "weight": 10 }],
+        "age=5": [{ "model": "block/potato/potatoes_stage2", "y": 0, "weight": 80},
+                  { "model": "block/potato/potatoes_stage2", "y": 90, "weight": 60 },
+                  { "model": "block/potato/potatoes_stage2_poisonous", "y": 0, "weight": 20 },
+                  { "model": "block/potato/potatoes_stage2_poisonous", "y": 90, "weight": 10 }],
+        "age=6": [{ "model": "block/potato/potatoes_stage3", "y": 0, "weight": 80},
+                  { "model": "block/potato/potatoes_stage3", "y": 90, "weight": 60 },
+                  { "model": "block/potato/potatoes_stage3_poisonous", "y": 0, "weight": 20 },
+                  { "model": "block/potato/potatoes_stage3_poisonous", "y": 90, "weight": 10 }],
+        "age=7": [{ "model": "block/potato/potatoes_stage4_blue", "y": 0, "weight": 80},
+                  { "model": "block/potato/potatoes_stage4_blue", "y": 90, "weight": 60 },
+                  { "model": "block/potato/potatoes_stage4_blue_poisonous", "y": 0, "weight": 20 },
+                  { "model": "block/potato/potatoes_stage4_blue_poisonous", "y": 90, "weight": 10 },
+                  { "model": "block/potato/potatoes_stage4_purple", "y": 0, "weight": 80},
+                  { "model": "block/potato/potatoes_stage4_purple", "y": 90, "weight": 60 },
+                  { "model": "block/potato/potatoes_stage4_purple_poisonous", "y": 0, "weight": 20 },
+                  { "model": "block/potato/potatoes_stage4_purple_poisonous", "y": 90, "weight": 10 }]
+    }
+}
+Made by Ensis

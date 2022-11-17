@@ -1,0 +1,25 @@
+{
+	"credit": "Made by Ensis",
+	"textures": {
+		"end": "block/farmland_stage1_end",
+		"dirt": "block/dirt",
+		"top": "block/farmland_stage1",
+		"particle": "block/farmland_stage1_side",
+		"side": "block/farmland_stage1_side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 15, 16],
+			"faces": {
+				"north": {"uv": [0, 1, 16, 16], "texture": "#end"},
+				"east": {"uv": [0, 1, 16, 16], "texture": "#side"},
+				"south": {"uv": [0, 1, 16, 16], "texture": "#end"},
+				"west": {"uv": [0, 1, 16, 16], "texture": "#side"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#dirt"}
+			}
+		}
+	]
+}
+Made by Ensis

@@ -1,0 +1,174 @@
+{
+	"credit": "Made by Ensis",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/beetroots_stage1",
+		"stem": "block/beetroots_stage1",
+		"fruit": "block/beetroots_fruit"
+	},
+	"elements": [
+		{
+			"name": "Stem1",
+			"from": [4, 0, 0.5],
+			"to": [4, 8, 8.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [4, 7, 4]},
+			"faces": {
+				"east": {"uv": [16, 0, 0, 16], "texture": "#stem"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Stem2",
+			"from": [-0.5, 0, 4],
+			"to": [7.5, 8, 4],
+			"rotation": {"angle": 45, "axis": "y", "origin": [4, 7, 4]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#stem"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Beetroot",
+			"from": [3, -1, 3],
+			"to": [5, 0, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, -1, 4]},
+			"faces": {
+				"north": {"uv": [2, 3, 0, 4], "texture": "#fruit"},
+				"east": {"uv": [0, 3, 2, 4], "texture": "#fruit"},
+				"south": {"uv": [0, 0, 2, 1], "texture": "#fruit"},
+				"west": {"uv": [0, 0, 2, 1], "texture": "#fruit"},
+				"up": {"uv": [0, 1, 2, 3], "texture": "#fruit"},
+				"down": {"uv": [0, 1, 2, 3], "texture": "#fruit"}
+			}
+		},
+		{
+			"name": "Stem1",
+			"from": [12, 0, -1.5],
+			"to": [12, 8, 6.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [12, 7, 3]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#stem"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Stem2",
+			"from": [8.5, 0, 3],
+			"to": [16.5, 8, 3],
+			"rotation": {"angle": 45, "axis": "y", "origin": [12, 7, 3]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#stem"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Beetroot",
+			"from": [11, -1, 2],
+			"to": [13, 0, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, -1, 1]},
+			"faces": {
+				"north": {"uv": [2, 3, 0, 4], "texture": "#fruit"},
+				"east": {"uv": [0, 3, 2, 4], "texture": "#fruit"},
+				"south": {"uv": [0, 0, 2, 1], "texture": "#fruit"},
+				"west": {"uv": [0, 0, 2, 1], "texture": "#fruit"},
+				"up": {"uv": [0, 1, 2, 3], "texture": "#fruit"},
+				"down": {"uv": [0, 1, 2, 3], "texture": "#fruit"}
+			}
+		},
+		{
+			"name": "Stem1",
+			"from": [5, 0, 7.5],
+			"to": [5, 8, 15.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [5, 7, 11]},
+			"faces": {
+				"east": {"uv": [16, 0, 0, 16], "texture": "#stem"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Stem2",
+			"from": [1.5, 0, 11],
+			"to": [9.5, 8, 11],
+			"rotation": {"angle": 45, "axis": "y", "origin": [5, 7, 11]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#stem"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Beetroot",
+			"from": [4, -1, 10],
+			"to": [6, 0, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, -1, 3]},
+			"faces": {
+				"north": {"uv": [2, 3, 0, 4], "texture": "#fruit"},
+				"east": {"uv": [0, 3, 2, 4], "texture": "#fruit"},
+				"south": {"uv": [0, 0, 2, 1], "texture": "#fruit"},
+				"west": {"uv": [0, 0, 2, 1], "texture": "#fruit"},
+				"up": {"uv": [0, 1, 2, 3], "texture": "#fruit"},
+				"down": {"uv": [0, 1, 2, 3], "texture": "#fruit"}
+			}
+		},
+		{
+			"name": "Stem2",
+			"from": [13, 0, 8.5],
+			"to": [13, 8, 16.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [13, 7, 12]},
+			"faces": {
+				"east": {"uv": [16, 0, 0, 16], "texture": "#stem"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Stem3",
+			"from": [9.5, 0, 12],
+			"to": [17.5, 8, 12],
+			"rotation": {"angle": 45, "axis": "y", "origin": [13, 7, 12]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#stem"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Beetroot",
+			"from": [12, -1, 11],
+			"to": [14, 0, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, -1, 4]},
+			"faces": {
+				"north": {"uv": [2, 3, 0, 4], "texture": "#fruit"},
+				"east": {"uv": [0, 3, 2, 4], "texture": "#fruit"},
+				"south": {"uv": [0, 0, 2, 1], "texture": "#fruit"},
+				"west": {"uv": [0, 0, 2, 1], "texture": "#fruit"},
+				"up": {"uv": [0, 1, 2, 3], "texture": "#fruit"},
+				"down": {"uv": [0, 1, 2, 3], "texture": "#fruit"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Beetroot1",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2]
+		},
+		{
+			"name": "Beetroot2",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [3, 4, 5]
+		},
+		{
+			"name": "Beetroot3",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [6, 7, 8]
+		},
+		{
+			"name": "Beetroot4",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [9, 10, 11]
+		}
+	]
+}
+Made by Ensis

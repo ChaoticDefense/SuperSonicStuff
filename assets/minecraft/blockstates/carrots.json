@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "age=0": [{ "model": "block/carrot/carrots_stage0_3" },
+                  { "model": "block/carrot/carrots_stage0_4" }],
+        "age=1": [{ "model": "block/carrot/carrots_stage0_3" },
+                  { "model": "block/carrot/carrots_stage0_4" }],
+        "age=2": [{ "model": "block/carrot/carrots_stage1_3" },
+                  { "model": "block/carrot/carrots_stage1_4" }],
+        "age=3": [{ "model": "block/carrot/carrots_stage1_3" },
+                  { "model": "block/carrot/carrots_stage1_4" }],
+        "age=4": [{ "model": "block/carrot/carrots_stage2_3" },
+                  { "model": "block/carrot/carrots_stage2_4" }],
+        "age=5": [{ "model": "block/carrot/carrots_stage2_3" },
+                  { "model": "block/carrot/carrots_stage2_4" }],
+        "age=6": [{ "model": "block/carrot/carrots_stage2_3" },
+                  { "model": "block/carrot/carrots_stage2_4" }],
+        "age=7": [{ "model": "block/carrot/carrots_stage3_3" },
+                  { "model": "block/carrot/carrots_stage3_4" }]
+                }
+}
+Made by Ensis

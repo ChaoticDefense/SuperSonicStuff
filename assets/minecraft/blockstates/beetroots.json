@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "age=0": [{ "model": "block/beetroot/beetroots_stage0_3" },
+                  { "model": "block/beetroot/beetroots_stage0_4" }],
+        "age=1": [{ "model": "block/beetroot/beetroots_stage1_3" },
+                  { "model": "block/beetroot/beetroots_stage1_4" }],
+        "age=2": [{ "model": "block/beetroot/beetroots_stage2_3" },
+                  { "model": "block/beetroot/beetroots_stage2_4" }],
+        "age=3": [{ "model": "block/beetroot/beetroots_stage3_3" },
+                  { "model": "block/beetroot/beetroots_stage3_4" }]
+                }
+}
+Made by Ensis

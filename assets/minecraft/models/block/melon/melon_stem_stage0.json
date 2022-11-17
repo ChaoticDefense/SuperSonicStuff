@@ -1,0 +1,43 @@
+{
+	"credit": "Made by Ensis",
+	"ambientocclusion": false,
+	"texture_size": [8, 8],
+	"textures": {
+		"stem": "block/melon_stem_stage0",
+		"particle": "block/melon_leaf_1",
+		"bottom": "block/melon_leaf_1"
+	},
+	"elements": [
+		{
+			"name": "Stem",
+			"from": [8, -1, 6],
+			"to": [8, 3, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#stem"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Leaf w",
+			"from": [0, -1, 4.5],
+			"to": [8, -1, 12.5],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, -1, 8.5]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#bottom"},
+				"down": {"uv": [16, 16, 0, 0], "rotation": 90, "texture": "#bottom"}
+			}
+		},
+		{
+			"name": "Leaf e",
+			"from": [8, -1, 4.5],
+			"to": [16, -1, 12.5],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, -1, 8.5]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#bottom"},
+				"down": {"uv": [16, 16, 0, 0], "rotation": 270, "texture": "#bottom"}
+			}
+		}
+	]
+}
+Made by Ensis

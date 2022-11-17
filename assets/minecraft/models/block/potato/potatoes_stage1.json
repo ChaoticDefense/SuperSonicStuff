@@ -1,0 +1,54 @@
+{
+	"credit": "Made by Ensis",
+	"ambientocclusion": false,
+	"textures": {
+		"fruit": "block/potatoes_fuit",
+		"particle": "block/potatoes_stage1",
+		"stem": "block/potatoes_stage1"
+	},
+	"elements": [
+		{
+			"name": "Stem1",
+			"from": [8, -1, 4],
+			"to": [8, 7, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.5, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#stem"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Stem2",
+			"from": [4, -1, 8],
+			"to": [12, 7, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#stem"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Potato",
+			"from": [7, -1, 7],
+			"to": [9, 0, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [6, 3, 8, 4], "texture": "#fruit"},
+				"east": {"uv": [5, 5, 7, 6], "texture": "#fruit"},
+				"south": {"uv": [3, 1, 5, 2], "texture": "#fruit"},
+				"west": {"uv": [7, 5, 9, 6], "texture": "#fruit"},
+				"up": {"uv": [5, 2, 7, 4], "texture": "#fruit"},
+				"down": {"uv": [5, 5, 7, 7], "texture": "#fruit"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Stem",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1]
+		},
+		2
+	]
+}Made by Ensis

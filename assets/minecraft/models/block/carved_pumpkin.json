@@ -1,0 +1,27 @@
+{
+	"credit": "Made by Ensis",
+	"parent": "minecraft:block/orientable",
+	"textures": {
+		"bottom": "block/pumpkin_bottom",
+		"top": "block/pumpkin_top",
+		"particle": "block/carved_pumpkin",
+		"front": "block/carved_pumpkin",
+		"side": "block/pumpkin_side"
+	},
+	"elements": [
+		{
+			"name": "Pumpkin",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#front"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom"}
+			}
+		}
+	]
+}
+Made by Ensis

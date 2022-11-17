@@ -1,0 +1,134 @@
+{
+	"credit": "Made by Ensis",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/carrots_stage3",
+		"stem": "block/carrots_stage3",
+		"carrot": "block/carrots_fruit"
+	},
+	"elements": [
+		{
+			"name": "Stem1",
+			"from": [4, 1, -2],
+			"to": [4, 13.5, 10],
+			"rotation": {"angle": 45, "axis": "y", "origin": [4, 9, 4]},
+			"faces": {
+				"east": {"uv": [2, 3.5, 14, 16], "texture": "#stem"},
+				"west": {"uv": [2, 3.5, 14, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Stem2",
+			"from": [-2, 1, 4],
+			"to": [10, 13.5, 4],
+			"rotation": {"angle": 45, "axis": "y", "origin": [4, 9, 4]},
+			"faces": {
+				"north": {"uv": [2, 3.5, 14, 16], "texture": "#stem"},
+				"south": {"uv": [2, 3.5, 14, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Carrot",
+			"from": [2, -1, 2],
+			"to": [6, 1, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 4]},
+			"faces": {
+				"north": {"uv": [9, 6, 5, 9], "texture": "#carrot"},
+				"east": {"uv": [5, 6, 9, 9], "texture": "#carrot"},
+				"south": {"uv": [5, 0, 9, 2], "texture": "#carrot"},
+				"west": {"uv": [5, 0, 9, 2], "texture": "#carrot"},
+				"up": {"uv": [5, 2, 9, 6], "texture": "#carrot"},
+				"down": {"uv": [5, 2, 9, 6], "texture": "#carrot"}
+			}
+		},
+		{
+			"name": "Stem1",
+			"from": [12, 1, 1],
+			"to": [12, 13.5, 13],
+			"rotation": {"angle": 45, "axis": "y", "origin": [12, 9, 7]},
+			"faces": {
+				"east": {"uv": [2, 3.5, 14, 16], "texture": "#stem"},
+				"west": {"uv": [2, 3.5, 14, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Stem2",
+			"from": [6, 1, 7],
+			"to": [18, 13.5, 7],
+			"rotation": {"angle": 45, "axis": "y", "origin": [12, 9, 7]},
+			"faces": {
+				"north": {"uv": [2, 3.5, 14, 16], "texture": "#stem"},
+				"south": {"uv": [2, 3.5, 14, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Carrot",
+			"from": [10, -1, 5],
+			"to": [14, 1, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 0, 7]},
+			"faces": {
+				"north": {"uv": [9, 6, 5, 9], "texture": "#carrot"},
+				"east": {"uv": [5, 6, 9, 9], "texture": "#carrot"},
+				"south": {"uv": [5, 0, 9, 2], "texture": "#carrot"},
+				"west": {"uv": [5, 0, 9, 2], "texture": "#carrot"},
+				"up": {"uv": [5, 2, 9, 6], "texture": "#carrot"},
+				"down": {"uv": [5, 2, 9, 6], "texture": "#carrot"}
+			}
+		},
+		{
+			"name": "Stem1",
+			"from": [5, 1, 6],
+			"to": [5, 13.5, 18],
+			"rotation": {"angle": 45, "axis": "y", "origin": [5, 9, 12]},
+			"faces": {
+				"east": {"uv": [2, 3.5, 14, 16], "texture": "#stem"},
+				"west": {"uv": [2, 3.5, 14, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Stem2",
+			"from": [-1, 1, 12],
+			"to": [11, 13.5, 12],
+			"rotation": {"angle": 45, "axis": "y", "origin": [5, 9, 12]},
+			"faces": {
+				"north": {"uv": [2, 3.5, 14, 16], "texture": "#stem"},
+				"south": {"uv": [2, 3.5, 14, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Carrot",
+			"from": [3, -1, 10],
+			"to": [7, 1, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 0, 12]},
+			"faces": {
+				"north": {"uv": [9, 6, 5, 9], "texture": "#carrot"},
+				"east": {"uv": [5, 6, 9, 9], "texture": "#carrot"},
+				"south": {"uv": [5, 0, 9, 2], "texture": "#carrot"},
+				"west": {"uv": [5, 0, 9, 2], "texture": "#carrot"},
+				"up": {"uv": [5, 2, 9, 6], "texture": "#carrot"},
+				"down": {"uv": [5, 2, 9, 6], "texture": "#carrot"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Carrot1",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2]
+		},
+		{
+			"name": "Carrot2",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [3, 4, 5]
+		},
+		{
+			"name": "Carrot3",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [6, 7, 8]
+		}
+	]
+}
+Made by Ensis

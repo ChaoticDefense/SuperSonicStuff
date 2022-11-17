@@ -1,0 +1,59 @@
+{
+	"credit": "Made by Ensis",
+	"ambientocclusion": false,
+	"texture_size": [8, 8],
+	"textures": {
+		"fruit_side": "block/pumpkin_side_1",
+		"fruit_top": "block/pumpkin_top_1",
+		"stem": "block/pumpkin_stem_stage3",
+		"particle": "block/pumpkin_leaf_2",
+		"bottom": "block/pumpkin_leaf_2"
+	},
+	"elements": [
+		{
+			"name": "Stem",
+			"from": [8, -1, 0.5],
+			"to": [8, 15, 16.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8.5]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#stem"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#stem"}
+			}
+		},
+		{
+			"name": "Leaf w",
+			"from": [-8, -1, 0],
+			"to": [8, -1, 16],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, -1, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#bottom"},
+				"down": {"uv": [16, 16, 0, 1], "rotation": 90, "texture": "#bottom"}
+			}
+		},
+		{
+			"name": "Leaf e",
+			"from": [8, -1, 0],
+			"to": [24, -1, 16],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, -1, 8]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#bottom"},
+				"down": {"uv": [16, 16, 0, 0], "rotation": 270, "texture": "#bottom"}
+			}
+		},
+		{
+			"name": "pumpkin",
+			"from": [6, 4.6, 2.8],
+			"to": [10, 8.6, 6.8],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 6.6, 4.8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#fruit_side"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#fruit_side"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#fruit_side"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#fruit_side"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#fruit_top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#fruit_top"}
+			}
+		}
+	]
+}
+Made by Ensis

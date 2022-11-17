@@ -1,0 +1,12 @@
+{
+	"credit": "Made by Ensis",
+	"parent": "block/farmland/farmland_generic",
+	"textures": {
+		"side": "block/farmland_stage2_side",
+		"top": "block/farmland_stage2",
+		"particle": "block/farmland_stage2_end",
+		"end": "block/farmland_stage2_end",
+		"dirt": "block/dirt"
+	}
+}
+Made by Ensis

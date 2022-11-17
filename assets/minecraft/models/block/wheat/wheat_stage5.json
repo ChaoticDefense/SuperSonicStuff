@@ -1,0 +1,9 @@
+{
+	"credit": "Made by Ensis",
+	"parent": "minecraft:block/wheat/wheat_generic",
+	"textures": {
+		"all": "minecraft:block/wheat_stage5",
+		"particle": "minecraft:block/wheat_stage5"
+	}
+}
+Made by Ensis

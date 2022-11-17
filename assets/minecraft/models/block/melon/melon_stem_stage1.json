@@ -1,0 +1,75 @@
+{
+	"credit": "Made by Ensis",
+	"ambientocclusion": false,
+	"textures": {
+		"stem": "block/melon_stem_stage1",
+		"flower": "block/melon_flower",
+		"particle": "block/melon_leaf_2",
+		"bottom": "block/melon_leaf_2"
+	},
+	"elements": [
+		{
+			"name": "Stem",
+			"from": [8, -1, 4.5],
+			"to": [8, 7, 12.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3, 8.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 8], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#stem"},
+				"south": {"uv": [0, 0, 0, 8], "texture": "#missing"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#stem"},
+				"up": {"uv": [0, 0, 0, 8], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 8], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "Leaf e",
+			"from": [8, -1, 0],
+			"to": [24, -1, 16],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, -1, 8]},
+			"faces": {
+				"up": {"uv": [16, 16, 0, 0], "rotation": 270, "texture": "#bottom"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#bottom"}
+			}
+		},
+		{
+			"name": "Leaf w",
+			"from": [-8, -1, 0],
+			"to": [8, -1, 16],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, -1, 8]},
+			"faces": {
+				"up": {"uv": [16, 16, 0, 0], "rotation": 90, "texture": "#bottom"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#bottom"}
+			}
+		},
+		{
+			"name": "Flower",
+			"from": [7.25, 5.7, 5.95],
+			"to": [8.75, 7.2, 6.95],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 6.45, 6.45]},
+			"faces": {
+				"north": {"uv": [10, 8, 12, 10], "texture": "#flower"},
+				"east": {"uv": [12, 4, 16, 6], "texture": "#flower"},
+				"south": {"uv": [10, 2, 12, 4], "texture": "#flower"},
+				"west": {"uv": [6, 4, 10, 6], "texture": "#flower"},
+				"up": {"uv": [10, 0, 12, 4], "texture": "#flower"},
+				"down": {"uv": [10, 6, 12, 10], "texture": "#flower"}
+			}
+		},
+		{
+			"name": "Flower petal",
+			"from": [6.25, 4.7, 6.45],
+			"to": [9.75, 8.2, 6.45],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 6.45, 6.45]},
+			"faces": {
+				"north": {"uv": [0, 0, 6, 6], "texture": "#flower"},
+				"east": {"uv": [0, 0, 0, 3], "texture": "#missing"},
+				"south": {"uv": [0, 0, 6, 6], "texture": "#flower"},
+				"west": {"uv": [0, 0, 0, 3], "texture": "#missing"},
+				"up": {"uv": [0, 0, 3, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 3, 0], "texture": "#missing"}
+			}
+		}
+	]
+}
+Made by Ensis
