@@ -1,4 +1,4 @@
-Textures:
+Vanilla Textures:
 	Mickey Joe Alpha (u/MushirMickeyJoe) (Relatively Improved Default)
 		all tools (except netherite)
 		all swords (except netherite)
@@ -55,3 +55,6 @@ Textures:
 		better crop textures
 		dynamic farmland
 		3d crop models
+	MarxistMay (Steak Hunger)
+		hunger bar icons to steak
+		status icons for hunger and saturation
