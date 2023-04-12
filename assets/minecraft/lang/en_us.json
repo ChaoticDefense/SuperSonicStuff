@@ -343,5 +343,7 @@
   "demo.help.inventory": "§7Use the E key to open your inventory",
   "entity.minecraft.chest_boat": "",
   "block.minecraft.bamboo_block": "Bamboo Block",
-  "block.minecraft.stripped_bamboo_block": "Stripped Bamboo Block"
+  "block.minecraft.stripped_bamboo_block": "Stripped Bamboo Block",
+  "block.minecraft.suspicious_sand": "Sus Sand",
+  "block.minecraft.suspicious_gravel": "Sus Gravel"
 }
