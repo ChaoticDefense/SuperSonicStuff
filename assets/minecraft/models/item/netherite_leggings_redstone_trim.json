@@ -1,0 +1,9 @@
+{
+  "credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+  "parent": "minecraft:item/template_leggings_trim",
+  "textures": {
+    "particle": "minecraft:item/armor/netherite/netherite_layer_2",
+    "layer0": "minecraft:item/armor/netherite/netherite_layer_2",
+    "layer1": "minecraft:trims/items/leggings_trim_redstone"
+  }
+}

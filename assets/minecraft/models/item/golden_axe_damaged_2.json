@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/tool_degradation/golden_axe_damaged_2"
+    }
+}

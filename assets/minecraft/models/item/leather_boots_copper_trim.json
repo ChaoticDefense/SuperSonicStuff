@@ -1,0 +1,10 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+	"parent": "minecraft:item/leather_boots_trim",
+	"textures": {
+	    "particle": "item/leather",
+		"layer0": "item/armor/leather/leather_layer_1",
+		"layer1": "item/armor/leather/leather_layer_1_overlay",
+		"layer2": "minecraft:trims/items/boots_trim_copper"
+  }
+}

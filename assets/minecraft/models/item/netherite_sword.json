@@ -1,0 +1,39 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/netherite_sword"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "damage": 0.25
+            },
+            "model": "item/netherite_sword_damaged_0"
+        },
+        {
+            "predicate": {
+                "damage": 0.5
+            },
+            "model": "item/netherite_sword_damaged_1"
+        },
+        {
+            "predicate": {
+                "damage": 0.75
+            },
+            "model": "item/netherite_sword_damaged_2"
+        }
+    ],
+	"display": {
+		"gui": {
+			"rotation":  [ 0, -25.5, 0 ],
+			"translation":  [ 0.05, 0, 0 ],
+			"scale":  [ 1.08, 1, 1 ]
+		},
+		"ground": {
+			"rotation":  [ 0, -25.5, 0 ],
+			"translation":  [ 0, 6, 0 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		}
+	}
+}
