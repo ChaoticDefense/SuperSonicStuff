@@ -1,0 +1,87 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/smoker_side",
+		"lid": "block/furnace_misc",
+		"bottom": "block/smoker_bottom",
+		"top": "block/smoker_top",
+		"side": "block/smoker_side",
+		"front": "block/smoker_front_on"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 12, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom", "cullface": "down" },
+				"up": { "uv": [ 5, 5, 11, 11 ], "texture": "#top", "cullface": "north" },
+				"north": { "uv": [ 0, 4, 16, 16 ], "texture": "#front", "cullface": "north" },
+				"south": { "uv": [ 0, 4, 16, 16 ], "texture": "#side", "cullface": "south" },
+				"west": { "uv": [ 0, 4, 16, 16 ], "texture": "#side", "cullface": "west" },
+				"east": { "uv": [ 0, 4, 16, 16 ], "texture": "#side", "cullface": "east" }
+			}
+		},
+		{
+			"from": [ 0, 12, 0 ],
+			"to": [ 16, 16, 5 ],
+			"faces": {
+				"up": { "uv": [ 0, 0, 16, 5 ], "texture": "#top", "cullface": "up" },
+				"north": { "uv": [ 0, 0, 16, 4 ], "texture": "#front", "cullface": "north" },
+				"south": { "uv": [ 0, 0, 16, 4 ], "texture": "#lid", "cullface": "up" },
+				"west": { "uv": [ 0, 0, 5, 4 ], "texture": "#side", "cullface": "west" },
+				"east": { "uv": [ 11, 0, 16, 4 ], "texture": "#side", "cullface": "east" }
+			}
+		},
+		{
+			"from": [ 0, 12, 11 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"up": { "uv": [ 0, 11, 16, 16 ], "texture": "#top", "cullface": "up" },
+				"north": { "uv": [ 0, 0, 16, 4 ], "texture": "#lid", "cullface": "up" },
+				"south": { "uv": [ 0, 0, 16, 4 ], "texture": "#side", "cullface": "south" },
+				"west": { "uv": [ 11, 0, 16, 4 ], "texture": "#side", "cullface": "west" },
+				"east": { "uv": [ 0, 0, 5, 4 ], "texture": "#side", "cullface": "east" }
+			}
+		},
+		{
+			"from": [ 0, 12, 5 ],
+			"to": [ 5, 16, 11 ],
+			"faces": {
+				"up": { "uv": [ 0, 5, 5, 11 ], "texture": "#top", "cullface": "up" },
+				"west": { "uv": [ 5, 0, 11, 4 ], "texture": "#side", "cullface": "west" },
+				"east": { "uv": [ 5, 0, 11, 4 ], "texture": "#lid", "cullface": "up" }
+			}
+		},
+		{
+			"from": [ 11, 12, 5 ],
+			"to": [ 16, 16, 11 ],
+			"faces": {
+				"up": { "uv": [ 11, 5, 16, 11 ], "texture": "#top", "cullface": "up" },
+				"west": { "uv": [ 5, 0, 11, 4 ], "texture": "#lid", "cullface": "up" },
+				"east": { "uv": [ 5, 0, 11, 4 ], "texture": "#side", "cullface": "east" }
+			}
+		},
+		{
+			"from": [ 12, 9, -0.9687999 ],
+			"to": [ 13, 11, -0.000050128 ],
+			"faces": {
+				"down": { "uv": [ 3, 8, 4, 9 ], "texture": "#lid", "cullface": "north" },
+				"up": { "uv": [ 3, 7, 4, 8 ], "texture": "#lid", "cullface": "north" },
+				"north": { "uv": [ 3, 7, 4, 9 ], "texture": "#lid", "cullface": "north" },
+				"east": { "uv": [ 3, 7, 4, 9 ], "texture": "#lid", "cullface": "north" }
+			}
+		},
+		{
+			"from": [ 4, 8, -0.9687999 ],
+			"to": [ 12, 12, -0.000050128 ],
+			"faces": {
+				"down": { "uv": [ 4, 9, 12, 9.96875 ], "texture": "#lid", "cullface": "north" },
+				"up": { "uv": [ 4, 6, 12, 6.96875 ], "texture": "#lid", "cullface": "north" },
+				"north": { "uv": [ 4, 6, 12, 10 ], "texture": "#lid", "cullface": "north" },
+				"west": { "uv": [ 11, 6, 11.96875, 10 ], "texture": "#lid", "cullface": "north" },
+				"east": { "uv": [ 4, 6, 4.96875, 10 ], "texture": "#lid", "cullface": "north" }
+			}
+		}
+	]
+}

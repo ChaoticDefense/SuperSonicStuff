@@ -1,0 +1,12 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+    "multipart": [
+		{	"when": { "has_record": "false" },
+			"apply": { "model": "block/jukebox" }	
+		},
+		{
+			"when": { "has_record": "true" },
+			"apply": { "model": "block/jukebox_playing" }
+		}
+    ]
+}

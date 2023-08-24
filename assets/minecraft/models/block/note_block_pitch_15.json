@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+    "parent": "block/note_block_pitch_1",
+    "textures": {
+        "pitch": "block/note_block_pitch/15"
+    }
+}

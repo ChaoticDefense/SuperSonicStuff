@@ -1,0 +1,30 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+    "multipart": [		
+		{ "when": { "note": 0}, "apply": { "model": "block/note_block_pitch_0" }},
+		{ "when": { "note": 1}, "apply": { "model": "block/note_block_pitch_1" }},
+		{ "when": { "note": 2}, "apply": { "model": "block/note_block_pitch_2" }},
+		{ "when": { "note": 3}, "apply": { "model": "block/note_block_pitch_3" }},
+		{ "when": { "note": 4}, "apply": { "model": "block/note_block_pitch_4" }},
+		{ "when": { "note": 5}, "apply": { "model": "block/note_block_pitch_5" }},
+		{ "when": { "note": 6}, "apply": { "model": "block/note_block_pitch_6" }},
+		{ "when": { "note": 7}, "apply": { "model": "block/note_block_pitch_7" }},
+		{ "when": { "note": 8}, "apply": { "model": "block/note_block_pitch_8" }},
+		{ "when": { "note": 9}, "apply": { "model": "block/note_block_pitch_9" }},
+		{ "when": { "note": 10}, "apply": { "model": "block/note_block_pitch_10" }},
+		{ "when": { "note": 11}, "apply": { "model": "block/note_block_pitch_11" }},
+		{ "when": { "note": 12}, "apply": { "model": "block/note_block_pitch_12" }},
+		{ "when": { "note": 13}, "apply": { "model": "block/note_block_pitch_13" }},
+		{ "when": { "note": 14}, "apply": { "model": "block/note_block_pitch_14" }},
+		{ "when": { "note": 15}, "apply": { "model": "block/note_block_pitch_15" }},
+		{ "when": { "note": 16}, "apply": { "model": "block/note_block_pitch_16" }},
+		{ "when": { "note": 17}, "apply": { "model": "block/note_block_pitch_17" }},
+		{ "when": { "note": 18}, "apply": { "model": "block/note_block_pitch_18" }},
+		{ "when": { "note": 19}, "apply": { "model": "block/note_block_pitch_19" }},
+		{ "when": { "note": 20}, "apply": { "model": "block/note_block_pitch_20" }},
+		{ "when": { "note": 21}, "apply": { "model": "block/note_block_pitch_21" }},
+		{ "when": { "note": 22}, "apply": { "model": "block/note_block_pitch_22" }},
+		{ "when": { "note": 23}, "apply": { "model": "block/note_block_pitch_23" }},
+		{ "when": { "note": 24}, "apply": { "model": "block/note_block_pitch_24" }}
+	]
+}
