@@ -1,6 +1,7 @@
 Vanilla Textures:
-	Mickey Joe Alpha (u/MushirMickeyJoe) (Relatively Improved Default)
+	Mickey Joe Alpha (u/MushirMickeyJoe) (Barely Default)
 		all tools, swords, and armor
+		3d block models for utility blocks
 	Vanilla Tweaks Team (Vanilla Tweaks Resource Pack)
 		cleaner ice textures
 		unobtrusive rain
