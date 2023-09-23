@@ -345,5 +345,6 @@
   "block.minecraft.bamboo_block": "Bamboo Block",
   "block.minecraft.stripped_bamboo_block": "Stripped Bamboo Block",
   "block.minecraft.suspicious_sand": "Sus Sand",
-  "block.minecraft.suspicious_gravel": "Sus Gravel"
+  "block.minecraft.suspicious_gravel": "Sus Gravel",
+  "item.minecraft.music_disc_relic.desc": "Ethno Circus"
 }
