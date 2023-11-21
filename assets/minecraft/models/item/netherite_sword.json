@@ -23,17 +23,5 @@
             },
             "model": "item/netherite_sword_damaged_2"
         }
-    ],
-	"display": {
-		"gui": {
-			"rotation":  [ 0, -25.5, 0 ],
-			"translation":  [ 0.05, 0, 0 ],
-			"scale":  [ 1.08, 1, 1 ]
-		},
-		"ground": {
-			"rotation":  [ 0, -25.5, 0 ],
-			"translation":  [ 0, 6, 0 ],
-			"scale":  [ 0.75, 0.75, 0.75 ]
-		}
-	}
+    ]
 }
