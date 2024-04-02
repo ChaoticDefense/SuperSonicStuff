@@ -2,12 +2,12 @@
    "pack":{
       "pack_format":18,
 	  "supported_formats": {"min_inclusive": 18, "max_inclusive": 22},
-      "description":"§4§n§oby SuperSonicSeven§r\n§r§7§oMinecraft 1.20.2 - 1.20.3"
+      "description":"§4§n§oby SuperSonicSeven§r\n§r§7§oMinecraft 1.20.2 - 1.20.5"
     },
 	"overlays": {
 		"entries": [
 			{
-				"formats": [19, 22],
+				"formats": [19, 31],
 				"directory": "support_1_20_3"
 			}
 		]
