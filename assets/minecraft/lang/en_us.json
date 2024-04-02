@@ -347,5 +347,7 @@
   "block.minecraft.suspicious_sand": "Sus Sand",
   "block.minecraft.suspicious_gravel": "Sus Gravel",
   "item.minecraft.music_disc_relic.desc": "Ethno Circus",
-  "container.crafter": ""
+  "container.crafter": "",
+  "block.minecraft.cherry_wood": "Cherry Bark",
+  "block.minecraft.stripped_cherry_wood": "Stripped Cherry Bark"
 }
