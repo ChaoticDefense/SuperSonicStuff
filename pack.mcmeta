@@ -9,6 +9,11 @@
 			{
 				"formats":{"min_inclusive": 19, "max_inclusive": 32},
 				"directory": "crafter_support"
+			},
+			
+			{
+				"formats":32,
+				"directory": "new_background_1_20_5"
 			}
 		]
 	}

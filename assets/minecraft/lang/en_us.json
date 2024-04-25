@@ -349,5 +349,21 @@
   "item.minecraft.music_disc_relic.desc": "Ethno Circus",
   "container.crafter": "",
   "block.minecraft.cherry_wood": "Cherry Bark",
-  "block.minecraft.stripped_cherry_wood": "Stripped Cherry Bark"
+  "block.minecraft.stripped_cherry_wood": "Stripped Cherry Bark",
+  "advancements.husbandry.repair_wolf_armor.description": "Repair a damaged Wolf Armor using Armadiller Scutes",
+  "advancements.adventure.brush_armadillo.description": "Get Armadiller Scutes from an Armadiller using a Brush",
+  "entity.minecraft.armadillo": "Armadiller",
+  "item.minecraft.armadillo_scute": "Armadiller Scute",
+  "item.minecraft.armadillo_spawn_egg": "Armadiller Spawn Egg",
+  "subtitles.entity.armadillo.ambient": "Armadiller grunts",
+  "subtitles.entity.armadillo.death": "Armadiller dies",
+  "subtitles.entity.armadillo.eat": "Armadiller eats",
+  "subtitles.entity.armadillo.hurt": "Armadiller hurts",
+  "subtitles.entity.armadillo.hurt_reduced": "Armadiller shields itself",
+  "subtitles.entity.armadillo.land": "Armadiller lands",
+  "subtitles.entity.armadillo.peek": "Armadiller peeks",
+  "subtitles.entity.armadillo.roll": "Armadiller rolls up",
+  "subtitles.entity.armadillo.scute_drop": "Armadiller sheds scute",
+  "subtitles.entity.armadillo.unroll_finish": "Armadiller unrolls",
+  "subtitles.entity.armadillo.unroll_start": "Armadiller peeks"
 }
