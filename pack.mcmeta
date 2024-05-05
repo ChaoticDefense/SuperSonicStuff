@@ -1,20 +1,12 @@
 {
    "pack":{
-      "pack_format":18,
-	  "supported_formats": {"min_inclusive": 18, "max_inclusive": 32},
-      "description":"§4§n§oby SuperSonicSeven§r\n§r§7§oMinecraft 1.20.2 - 1.20.6"
+      "pack_format":33,
+	  "supported_formats": {"min_inclusive": 33, "max_inclusive": 33},
+      "description":"§4§n§oby SuperSonicSeven§r\n§r§7§oMinecraft 1.21"
     },
 	"overlays": {
 		"entries": [
-			{
-				"formats":{"min_inclusive": 19, "max_inclusive": 32},
-				"directory": "crafter_support"
-			},
-			
-			{
-				"formats":32,
-				"directory": "new_background_1_20_5"
-			}
+
 		]
 	}
 }
