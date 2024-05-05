@@ -2,7 +2,7 @@
    "pack":{
       "pack_format":18,
 	  "supported_formats": {"min_inclusive": 18, "max_inclusive": 32},
-      "description":"§4§n§oby SuperSonicSeven§r\n§r§7§oMinecraft 1.20.2 - 1.20.5"
+      "description":"§4§n§oby SuperSonicSeven§r\n§r§7§oMinecraft 1.20.2 - 1.20.6"
     },
 	"overlays": {
 		"entries": [
