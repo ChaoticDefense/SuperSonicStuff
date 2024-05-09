@@ -365,5 +365,8 @@
   "subtitles.entity.armadillo.roll": "Armadiller rolls up",
   "subtitles.entity.armadillo.scute_drop": "Armadiller sheds scute",
   "subtitles.entity.armadillo.unroll_finish": "Armadiller unrolls",
-  "subtitles.entity.armadillo.unroll_start": "Armadiller peeks"
+  "subtitles.entity.armadillo.unroll_start": "Armadiller peeks",
+  "item.minecraft.music_disc_creator_music_box.desc": "Undefeatable - 16 Bit",
+  "item.minecraft.music_disc_creator.desc": "Undefeatable",
+  "item.minecraft.music_disc_precipice.desc": "I'm Here"
 }
