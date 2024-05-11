@@ -368,5 +368,10 @@
   "subtitles.entity.armadillo.unroll_start": "Armadiller peeks",
   "item.minecraft.music_disc_creator_music_box.desc": "Undefeatable - 16 Bit",
   "item.minecraft.music_disc_creator.desc": "Undefeatable",
-  "item.minecraft.music_disc_precipice.desc": "I'm Here"
+  "item.minecraft.music_disc_precipice.desc": "I'm Here",
+  "entity.minecraft.bogged": "Mr. Shreketal",
+  "item.minecraft.bogged_spawn_egg": "Mr. Shreketal Spawn Egg",
+  "subtitles.entity.bogged.ambient": "Mr. Shreketal rattles",
+  "subtitles.entity.bogged.death": "Mr. Shreketal dies",
+  "subtitles.entity.bogged.hurt": "Mr. Shreketal hurts"
 }
