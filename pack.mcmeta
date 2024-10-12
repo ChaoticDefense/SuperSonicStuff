@@ -1,12 +1,15 @@
 {
-   "pack":{
-      "pack_format":33,
-	  "supported_formats": {"min_inclusive": 33, "max_inclusive": 34},
-      "description":"§4§n§oby SuperSonicSeven§r\n§r§7§oMinecraft 1.21"
-    },
-	"overlays": {
-		"entries": [
-
-		]
-	}
+  "pack": {
+    "pack_format": 33,
+    "supported_formats": {"min_inclusive": 33, "max_inclusive": 42},
+    "description": "§4§n§oby SuperSonicSeven§r\n§r§7§oMinecraft 1.21 - 1.21.2"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": 42,
+        "directory": "armor_reformats"
+      }
+    ]
+  }
 }
