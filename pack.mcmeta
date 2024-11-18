@@ -1,14 +1,18 @@
 {
   "pack": {
     "pack_format": 33,
-    "supported_formats": {"min_inclusive": 33, "max_inclusive": 42},
-    "description": "§4§n§oby SuperSonicSeven§r\n§r§7§oMinecraft 1.21 - 1.21.3"
+    "supported_formats": {"min_inclusive": 33, "max_inclusive": 45},
+    "description": "§4§n§oby SuperSonicSeven§r\n§r§7§oMinecraft 1.21 - 1.21.4"
   },
   "overlays": {
     "entries": [
       {
-        "formats": 42,
+        "formats": {"min_inclusive": 42, "max_inclusive": 45},
         "directory": "armor_reformats"
+      },
+	  {
+        "formats": {"min_inclusive": 45, "max_inclusive": 45},
+        "directory": "gui_sprite_reformats"
       }
     ]
   }
