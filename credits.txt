@@ -41,7 +41,7 @@ Vanilla Textures:
 		better mob and player head holding models in first person
 		better map items
 	DartCat25
-		transistioning panoramas
+		transitioning panoramas
 	MCjossic
 		3D pointed dripstone
 	NyoPlus (NyoPlus Music Discs)

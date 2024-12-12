@@ -13,6 +13,10 @@
 	  {
         "formats": {"min_inclusive": 45, "max_inclusive": 46},
         "directory": "gui_sprite_reformats"
+      },
+	  {
+        "formats": {"min_inclusive": 45, "max_inclusive": 46},
+        "directory": "garden_awakens_pano"
       }
     ]
   }
