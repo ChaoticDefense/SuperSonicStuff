@@ -1,0 +1,81 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+	"overrides": [
+    {
+      "model": "minecraft:item/turtle_helmet_quartz_trim",
+      "predicate": {
+        "trim_type": 0.01
+		}
+    },
+    {
+      "model": "minecraft:item/turtle_helmet_iron_trim",
+      "predicate": {
+        "trim_type": 0.02
+		}
+    },
+    {
+      "model": "minecraft:item/turtle_helmet_netherite_trim",
+      "predicate": {
+        "trim_type": 0.03
+		}
+    },
+    {
+      "model": "minecraft:item/turtle_helmet_redstone_trim",
+      "predicate": {
+        "trim_type": 0.04
+		}
+    },
+    {
+      "model": "minecraft:item/turtle_helmet_copper_trim",
+      "predicate": {
+        "trim_type": 0.05
+		}
+    },
+    {
+      "model": "minecraft:item/turtle_helmet_gold_trim",
+      "predicate": {
+        "trim_type": 0.06
+		}
+    },
+    {
+      "model": "minecraft:item/turtle_helmet_emerald_trim",
+      "predicate": {
+        "trim_type": 0.07
+		}
+    },
+    {
+      "model": "minecraft:item/turtle_helmet_diamond_trim",
+      "predicate": {
+        "trim_type": 0.08
+		}
+    },
+    {
+      "model": "minecraft:item/turtle_helmet_lapis_trim",
+      "predicate": {
+        "trim_type": 0.09
+		}
+    },
+    {
+      "model": "minecraft:item/turtle_helmet_amethyst_trim",
+      "predicate": {
+        "trim_type": 0.1
+		}
+	},
+	{
+      "model": "minecraft:item/turtle_helmet_resin_trim",
+      "predicate": {
+        "trim_type": 0.11
+      }
+    },
+    {
+      "model": "minecraft:item/turtle_helmet_echo_trim",
+      "predicate": {
+        "trim_type": 0.0420
+		}
+	}
+	],
+	"parent": "item/template_helmet",
+	"textures": {
+		"particle": "item/armor/turtle/turtle_layer_1"
+	}
+}
