@@ -1,6 +1,7 @@
 {
     "parent": "block/scouter",
     "textures": {
-        "power": "block/powerlevel08"
+        "power": "block/powerlevel08",
+		"particle": "block/redstone_dust_dot"
     }
 }
