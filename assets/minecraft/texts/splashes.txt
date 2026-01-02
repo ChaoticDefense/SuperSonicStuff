@@ -50,7 +50,7 @@ UNO §4Red!
 UNO §9Blue!
 UNO §2Green!
 UNO Yellow!
-1700 Games of UNO!
+1800 Games of UNO!
 Live with Honor, Die with Glory!
 §aOh §9let's §abreak §9it §adown!
 §aFeel the §rhealin' §abeat!
@@ -193,3 +193,7 @@ ROCK AND STONE!!!
 SPACE CARDBOARD!
 Oh captain my captain!
 It's illegal in every state, except Texas!
+Finesse and grace!
+Let's spill some ink!
+For those who come after!
+The Grinch has died!
