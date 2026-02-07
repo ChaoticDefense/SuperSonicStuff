@@ -1,8 +1,8 @@
 {
   "pack": {
 	"description": "§4§n§oby SuperSonicSeven§r\n§r§7§oMinecraft 26.1",
-	"min_format": [76, 0],
-	"max_format": [76, 0]
+	"min_format": [80, 0],
+	"max_format": [80, 0]
   },
   "overlays": {
     "entries": [
